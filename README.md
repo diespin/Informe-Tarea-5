@@ -1,7 +1,7 @@
 # INFORME DE TAREA 5
 ### 1.OBJETIVOS
 ### 1.1 Objetivo general
-#### Analizar ramas, lazos y nodos por los metodos de corriente y voltaje; estudiar el magnetismo y electromagnetismo en los circuiyos electricos. 
+#### Analizar ramas, lazos y nodos por los metodos de corriente y voltaje; estudiar el magnetismo y electromagnetismo en los circuitos electricos. 
 ### 1.2 Objetivos especificos
 - Analizar tres métodos de resolver ecuaciones simultáneas.
 - Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito.

@@ -317,6 +317,7 @@ No hay voltaje inducido porque el campo magnético no cambia
 
 ### 4. VIDEO
 ### 5. CONCLUSIONES
+#### Podemos conlcuir que:
 - Las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora.
 - El número de ecuaciones debe ser igual a la cantidad de incógnitas.
 - Los determinantes de segundo grado se evalúan sumando los productos diagonales (con la asociación de signo para cada término).

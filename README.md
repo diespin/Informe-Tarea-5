@@ -14,6 +14,8 @@
 - Analizar el principio de inducción electromagnética
 - Describir algunas aplicaciones
 ### 2. MARCO TEÓRICO
+[![Screenshot-20221227-102009.png](https://i.postimg.cc/NjC3h8B2/Screenshot-20221227-102009.png)](https://postimg.cc/yD9QcZJ7)
+[![Screenshot-20221227-110954.png](https://i.postimg.cc/V6qZNXQR/Screenshot-20221227-110954.png)](https://postimg.cc/WF4wWF4F)
 ### UNIDAD 9
 #### AUTOEVALUACION
 #### 2. Al asignar la dirección de las corrientes de rama,

@@ -336,4 +336,4 @@ No hay voltaje inducido porque el campo magnético no cambia
 - Cuando un conductor se mueve adentro de un campo magnético, o cuando un campo magnético se mueve con respecto a un conductor, se induce un voltaje entre los extremos del conductor.
 - Mientras más rápido es el movimiento relativo entre un conductor y un campo magnético, más grande es el voltaje inducido.
 ### 6. BIBLIOGRAFÍA
-- Floyd Thomas L.P.2007.Cantidades y unidades, Principios de circuitos eléctricos (8va ed.pp.118-225,). PEARSON EDUCACION.
+- Floyd Thomas L.P.2007.Cantidades y unidades, Principios de circuitos eléctricos (8va ed.pp.). PEARSON EDUCACION.

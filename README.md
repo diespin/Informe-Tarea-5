@@ -318,6 +318,7 @@ No hay voltaje inducido porque el campo magnético no cambia
 ![image](https://user-images.githubusercontent.com/105259381/177886322-bf8e7ae5-155b-489d-8688-0982c7cef34f.png)
 
 ### 4. VIDEO
+https://youtu.be/qRJte6rgJMs
 ### 5. CONCLUSIONES
 #### Podemos conlcuir que:
 - Las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora.
